@@ -9,14 +9,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wasif1&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wasif1&layout=compact&theme=radical)
-
----
-
 ### 🛠️ Technologies I Use
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-blueviolet?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -32,6 +24,14 @@
 
 ---
 
+### 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wasif1&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wasif1&layout=compact&theme=radical)
+
+---
+
 ### 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/wasif-mujahid-android-developer)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/yourusername)
+[![Twitter](https://img.shields.io/badge/Medium-989898.svg?style=for-the-badge&logo=medium&logoColor=black)](https://wasifmujahid.medium.com/)
