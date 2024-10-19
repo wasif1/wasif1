@@ -34,6 +34,6 @@
 
 ### 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wasif-mujahid-android-developer)
-[![Twitter](https://img.shields.io/badge/Medium-989898.svg?style=for-the-badge&logo=medium&logoColor=black)](https://wasifmujahid.medium.com/)
+[![Twitter](https://img.shields.io/badge/Medium-989898.svg?style=for-the-badge&logo=medium&logoColor=white)](https://wasifmujahid.medium.com/)
 [![Buy me a coffee](https://img.shields.io/badge/ko-fi-FF3300.svg?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/wasifmujahid)
 
