@@ -2,7 +2,6 @@
 # Hi there! I'm Wasif Mujahid 👋
 
 - 🔭 I’m currently working on Native Android Application (KOTLIN)
-- 🌱 I’m currently learning Cloud technologies (Dockers, Kubernetes, AWS, Ansible, IAC)
 - 👯 I’m looking to collaborate on Mobile Application and Cloud Services
 - 🤔 I’m looking for help with open source projects for Mobile and Cloud Services
 - 📫 How to reach me: waxif.1@gmail.com 
