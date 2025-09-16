@@ -1,10 +1,10 @@
 
-# Hi there! I'm Wasif Mujahid 👋
+# Hi there! I'm Wasif Mujahid
 
-- 🔭 I’m currently working on Native Android Application (KOTLIN)
-- 👯 I’m looking to collaborate on Mobile Application and Cloud Services
-- 🤔 I’m looking for help with open source projects for Mobile and Cloud Services
-- 📫 How to reach me: waxif.1@gmail.com 
+- I’m currently working on Native Android Application (KOTLIN)
+- I’m looking to collaborate on Mobile Application 
+- I’m looking for new opportunities in open source projects for Android Native and Multiplatform KMP, CMP
+- How to reach me: waxif.1@gmail.com 
 
 ---
 
@@ -31,7 +31,7 @@
 
 ---
 
-### 📫 How to reach me
+### How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wasif-mujahid-android-developer)
 [![Twitter](https://img.shields.io/badge/Medium-989898.svg?style=for-the-badge&logo=medium&logoColor=white)](https://wasifmujahid.medium.com/)
 [![Buy me a coffee](https://img.shields.io/badge/ko-fi-FF3300.svg?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/wasifmujahid)
